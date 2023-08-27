@@ -46,7 +46,7 @@
     ]
   }],
   "omnibox": {
-    "keyword" : "find"
+    "keyword" : "find+"
   },
   "commands": {
     "_execute_browser_action": {
