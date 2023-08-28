@@ -1,7 +1,7 @@
 # You know why you're here 
 ### (you want to be able to type "find" in the omnibox)
-https://github.com/brandon1024/find/issues/312
-https://github.com/brandon1024/find/issues/345
+- https://github.com/brandon1024/find/issues/312
+- https://github.com/brandon1024/find/issues/345
 
 # Build steps (Chrome, Windows 10):
 1) Checkout this repository/download zip/whatever.
